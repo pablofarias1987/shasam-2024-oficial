@@ -24,7 +24,7 @@ export default function SectionOne() {
             {DESCRIPTION_ONE}{" "}
           </Typography>
           <div className="text-lg p-3 m-6">
-            <Link to="/singup">
+            <Link to="/signup">
               <Button
                 className=" bg-black rounded-xl p-3 hover:bg-blue-800 text-white"
                 size=""

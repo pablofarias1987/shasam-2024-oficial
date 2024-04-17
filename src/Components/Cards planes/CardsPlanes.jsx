@@ -1,4 +1,5 @@
 import { CardComponent } from "../Card/Card";
+import { CardComponent2 } from "../Card/Card2";
 
 export const Cards = () => {
   return (
@@ -6,7 +7,7 @@ export const Cards = () => {
         Nuestros planes
       <div className="flex space-x-11 p-6">
         <CardComponent />
-        <CardComponent />
+        <CardComponent2 />
       
       </div>
     </div>

@@ -4,10 +4,10 @@ import { NavbarComponent } from "./Components/Menu/Menu";
 import Home from "./paginas/Home/Home";
 import { Footer } from "./Components/Footer/footer";
 import About from "./paginas/About/About";
-import SingIn from "./paginas/SingIn/singin";
+import SignIn from "./paginas/SignIn/signin";
 import Tratamiento from "./paginas/Tratamientos/tratamientos";
 import { Programa } from "./paginas/Programas/Programas";
-import SingUp from "./paginas/SingUp/singup";
+import SignUp from "./paginas/SignUp/signup";
 
 function App() {
 
@@ -19,8 +19,8 @@ function App() {
         <Route path="/programa" element={<Programa />} />
         <Route path="/tratamientos" element={<Tratamiento />} />
         <Route path="/about" element={<About />} />
-        <Route path="/signup" element={<SingUp />} />
-        <Route path="/singin" element={<SingIn />} />        
+        <Route path="/signup" element={<SignUp />} />
+        <Route path="/signin" element={<SignIn />} />        
       </Routes>
       <Footer />
     </div>

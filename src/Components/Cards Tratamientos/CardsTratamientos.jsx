@@ -25,7 +25,39 @@ export const CardsTratamiento = () => {
             className="bg-gray-600 w-24  rounded-full "
             alt="canabis"
           />
-          <p>Canabis</p>
+          <p>Cannabis</p>
+        </div>
+        <div>
+          <img
+            src="/cocaina3.png"
+            className="bg-gray-600 w-24 h-24  rounded-full "
+            alt="cocaina"
+          />
+          <p>Cocaina</p>
+        </div>
+        <div>
+          <img
+            src="/pastillas2.png"
+            className="bg-gray-600 w-24 h-24  rounded-full "
+            alt="pastillas"
+          />
+          <p>Pastillas</p>
+        </div>
+        <div>
+          <img
+            src="/tecnologia3.png"
+            className="bg-gray-600 w-24 h-24  rounded-full "
+            alt="tecnologia"
+          />
+          <p>Tecnologia</p>
+        </div>
+        <div>
+          <img
+            src="/sexo3.png"
+            className="bg-gray-600 w-24 h-24  rounded-full "
+            alt="sexo"
+          />
+          <p>Sexo</p>
         </div>
       </div>
     </div>
