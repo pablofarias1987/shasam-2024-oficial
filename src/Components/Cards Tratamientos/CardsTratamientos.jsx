@@ -21,23 +21,23 @@ export const CardsTratamiento = () => {
         </div>
         <div>
           <img
-            src="/canabis.png"
+            src="/cannabis.png"
             className="bg-gray-600 w-24  rounded-full "
-            alt="canabis"
+            alt="cannabis"
           />
           <p>Cannabis</p>
         </div>
         <div>
           <img
-            src="/cocaina3.png"
+            src="/cocaina.png"
             className="bg-gray-600 w-24 h-24  rounded-full "
             alt="cocaina"
           />
-          <p>Cocaina</p>
+          <p>Cocaína</p>
         </div>
         <div>
           <img
-            src="/pastillas2.png"
+            src="/pastillas.png"
             className="bg-gray-600 w-24 h-24  rounded-full "
             alt="pastillas"
           />
@@ -45,19 +45,35 @@ export const CardsTratamiento = () => {
         </div>
         <div>
           <img
-            src="/tecnologia3.png"
+            src="/tecnologia.png"
             className="bg-gray-600 w-24 h-24  rounded-full "
             alt="tecnologia"
           />
-          <p>Tecnologia</p>
+          <p>Tecnología</p>
         </div>
         <div>
           <img
-            src="/sexo3.png"
+            src="/sexo.png"
             className="bg-gray-600 w-24 h-24  rounded-full "
             alt="sexo"
           />
           <p>Sexo</p>
+        </div>
+        {/* <div>
+          <img
+            src="/ludopatia.png"
+            className="bg-gray-600 w-24 h-24  rounded-full "
+            alt="ludopatia"
+          />
+          <p>Ludopatía</p>
+        </div> */}
+        <div>
+          <img
+            src="/pasta_base.png"
+            className="bg-gray-600 w-24 h-24  rounded-full "
+            alt="pasta_base"
+          />
+          <p>Pasta Base</p>
         </div>
       </div>
     </div>
