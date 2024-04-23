@@ -11,7 +11,7 @@ export const Footer = () => {
               height="40"
               
               />
-      <p className="text-dark-grayish-blue text-center [grid-area:copy]">Copyright 2024. All Rights Reserved</p>
+      <p className="text-dark-grayish-blue text-center [grid-area:copy]">Copyright Ⓒ 2024. All Rights Reserved</p>
 
       </div>
     </div>
